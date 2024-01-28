@@ -1,6 +1,6 @@
 //
 //  StarRatingView.swift
-//  AlDwaaNewApp
+
 //
 //  Created by ahmed hussien on 30/05/2023.
 //
